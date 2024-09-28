@@ -1,0 +1,19 @@
+{
+  "name": "api_logic",
+  "version": "1.0.0",
+  "description": "business logic for urlshortner project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enoughio/urlShortner.git"
+  },
+  "author": "Aniket Jatav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enoughio/urlShortner/issues"
+  },
+  "homepage": "https://github.com/enoughio/urlShortner#readme"
+}
